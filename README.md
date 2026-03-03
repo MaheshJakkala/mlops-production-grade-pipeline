@@ -25,7 +25,7 @@ This is **deployable ML engineering**.
 ---
 
 ## 🧠 Architecture Overview
-
+```
 Developer Push
 ↓
 GitHub Repository
@@ -39,6 +39,7 @@ Docker Image Build
 Trivy Security Scan
 ↓
 Deployment-ready Container
+```
 
 
 ---
@@ -55,6 +56,7 @@ Deployment-ready Container
 ---
 
 ## 📂 Repository Structure
+```
 ├── src/ # ML application source code
 ├── Dockerfile # Production container build
 ├── Dockerfile.jenkins # Jenkins-specific environment
@@ -62,7 +64,7 @@ Deployment-ready Container
 ├── requirements.txt # Python dependencies
 ├── .gitignore
 └── README.md
-
+```
 
 ---
 
@@ -158,7 +160,8 @@ This repository can be extended for:
 👨‍💻 Engineering Philosophy
 ----------------------------
 
-> ML models create value.MLOps makes them usable.
+> ML models create value.
+> MLOps makes them usable.
 
 This repository focuses on the second.
 
