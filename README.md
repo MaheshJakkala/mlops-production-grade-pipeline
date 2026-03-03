@@ -132,15 +132,15 @@ This project integrates DevSecOps practices:
 
 This project proves:
 
-*   You understand real-world ML deployment
+*   understand real-world ML deployment
     
-*   You can design CI/CD pipelines
+*   can design CI/CD pipelines
     
-*   You can enforce code quality automatically
+*   can enforce code quality automatically
     
-*   You understand container security
+*   understand container security
     
-*   You think beyond notebooks
+*   think beyond notebooks
     
 
 🎯 Ideal Use Case
